@@ -3,21 +3,22 @@
 This project performs end-to-end sales analysis for a coffee shop chain using SQL ( SQL Server). I ingested raw CSV sales data, cleaned and transformed it, built analytical tables and views, and calculated business KPIs to support dashboards and decision-making. The analysis covers transaction-level metrics, product and category performance, regional trends, and time-series insights.
 
 
-  -- KPI'S :-
-  -- TOTAL SALES KPI - MOM DIFFERENCE AND MOM GROWTH
-  -- TOTAL ORDERS
-  -- TOTAL ORDERS KPI - MOM DIFFERENCE AND MOM GROWTH
-  -- TOTAL QUANTITY SOLD
-  -- TOTAL QUANTITY SOLD KPI - MOM DIFFERENCE AND MOM GROWTH 
-  -- CALENDAR TABLE – DAILY SALES, QUANTITY and TOTAL ORDERS
-  -- If you want to get exact Rounded off values then use below query to get the result
-  -- SALES TREND OVER PERIOD
-  -- DAILY SALES FOR MONTH SELECTED
-  -- COMPARING DAILY SALES WITH AVERAGE SALES – IF GREATER THAN “ABOVE AVERAGE” and LESSER THAN “BELOW AVERAGE”
-  -- SALES BY WEEKDAY / WEEKEND:
-  -- SALES BY STORE LOCATION
-  -- SALES BY PRODUCT CATEGORY
-  -- SALES BY PRODUCTS (TOP 10)
-  -- SALES BY DAY | HOUR
-  -- TO GET SALES FROM MONDAY TO SUNDAY FOR MONTH OF MAY
-  -- TO GET SALES FOR ALL HOURS FOR MONTH OF MAY
+ ## KPIs
+
+1. Total Sales KPI – MoM Difference and MoM Growth
+2. Total Orders
+3. Total Orders KPI – MoM Difference and MoM Growth
+4. Total Quantity Sold
+5. Total Quantity Sold KPI – MoM Difference and MoM Growth
+6. Calendar Table – Daily Sales, Quantity, Total Orders
+7. Monthly Sales Trend
+8. Daily Sales for Selected Month
+9. Daily Sales vs Average
+10. Sales by Weekday / Weekend
+11. Sales by Store Location
+12. Sales by Product Category
+13. Sales by Top 10 Products
+14. Sales by Day & Hour
+15. Monday–Sunday Sales for May
+16. Hourly Sales for May
+
