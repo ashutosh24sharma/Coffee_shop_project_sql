@@ -25,5 +25,5 @@ This project performs end-to-end sales analysis for a coffee shop chain using SQ
 
 
 ![Power BI dashboard
-](https://github.com/ashutosh24sharma/Coffee_shop_project_sql/blob/main/Screenshot%202025-11-09%20213742.png)
+](https://github.com/ashutosh24sharma/Coffee_shop_project_sql/blob/main/Dadhoboard.png)
 
