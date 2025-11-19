@@ -2,6 +2,9 @@
 
 This project performs end-to-end sales analysis for a coffee shop chain using SQL ( SQL Server). I ingested raw CSV sales data, cleaned and transformed it, built analytical tables and views, and calculated business KPIs to support dashboards and decision-making. The analysis covers transaction-level metrics, product and category performance, regional trends, and time-series insights.
 
+![Alt text]()
+
+
 
  ## KPIs
 
